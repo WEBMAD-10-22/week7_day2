@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  height: 100vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://hips.hearstapps.com/es.h-cdn.co/hares/images/cultura/ocio/true-detective-porque-exito/2420047-1-esl-ES/true-detective-el-porque-del-exito.jpg');
+  background-position: center;
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+p {
+  font-size: 1.5em;
+}
